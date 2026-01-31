@@ -66,13 +66,6 @@ Extracts:
 
 ---
 
-## 🔐 Privacy & Confidentiality
-- No external APIs used
-- All processing happens locally
-- Ensures contract confidentiality
-
----
-
 ## 📂 Supported File Formats
 - PDF (text-based)
 - DOCX
@@ -80,8 +73,12 @@ Extracts:
 
 ---
 
-## ▶️ How to Run Locally
+## 🔐 Privacy & Confidentiality
+- No external APIs used
+- All processing happens locally
+- Ensures contract confidentiality
 
-### Step 1: Install Dependencies
-```bash
-pip install -r requirements.txt
+---
+
+
+
