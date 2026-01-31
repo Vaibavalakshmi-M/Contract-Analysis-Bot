@@ -1,0 +1,56 @@
+SERVICE AGREEMENT / सेवा अनुबंध
+
+This Service Agreement is made on 15 March 2026 between ABC Technologies Pvt Ltd ("Service Provider") and XYZ Retail Solutions ("Client").
+यह सेवा अनुबंध 15 मार्च 2026 को ABC Technologies Pvt Ltd ("सेवा प्रदाता") और XYZ Retail Solutions ("ग्राहक") के बीच किया गया है।
+
+1. Scope of Services / सेवाओं का दायरा
+The Service Provider agrees to deliver software development services including website development, maintenance, and technical support.
+सेवा प्रदाता वेबसाइट विकास, रखरखाव और तकनीकी सहायता प्रदान करने के लिए सहमत है।
+
+2. Payment Terms / भुगतान की शर्तें
+The Client agrees to pay INR 2,50,000 per month for services.
+ग्राहक सेवाओं के लिए प्रति माह INR 2,50,000 का भुगतान करने के लिए सहमत है।
+
+3. Deliverables / डिलीवरी
+The Service Provider must complete all deliverables within six months.
+सेवा प्रदाता को सभी कार्य छह महीने के भीतर पूरे करने होंगे।
+
+4. Confidentiality / गोपनीयता
+Both parties shall not disclose confidential information shared during this agreement.
+दोनों पक्ष इस अनुबंध के दौरान साझा की गई गोपनीय जानकारी का खुलासा नहीं करेंगे।
+
+5. Non-Compete / प्रतिस्पर्धा निषेध
+The Service Provider shall not work with competing businesses for 2 years after completion of this agreement.
+सेवा प्रदाता इस अनुबंध के पूरा होने के बाद 2 वर्षों तक प्रतिस्पर्धी व्यवसायों के साथ काम नहीं करेगा।
+
+6. Termination / समाप्ति
+The Client may terminate this agreement without notice if performance is unsatisfactory.
+यदि प्रदर्शन संतोषजनक नहीं है, तो ग्राहक बिना सूचना के अनुबंध समाप्त कर सकता है।
+
+7. Penalty Clause / जुर्माना
+If deadlines are not met, the Service Provider must pay a penalty of INR 1,00,000.
+यदि समय सीमा पूरी नहीं होती है, तो सेवा प्रदाता को INR 1,00,000 का जुर्माना देना होगा।
+
+8. Intellectual Property / बौद्धिक संपदा
+All intellectual property created during the project belongs to the Client.
+परियोजना के दौरान बनाई गई सभी बौद्धिक संपदा ग्राहक की होगी।
+
+9. Indemnity / क्षतिपूर्ति
+The Service Provider agrees to indemnify the Client against legal claims.
+सेवा प्रदाता कानूनी दावों के खिलाफ ग्राहक को क्षतिपूर्ति देगा।
+
+10. Liability / दायित्व
+The Service Provider shall have unlimited liability for damages.
+सेवा प्रदाता को नुकसान के लिए असीमित दायित्व होगा।
+
+11. Auto-Renewal / स्वचालित नवीनीकरण
+This agreement will renew automatically unless notice is given.
+यदि सूचना नहीं दी जाती है, तो यह अनुबंध स्वतः नवीनीकृत होगा।
+
+12. Jurisdiction / क्षेत्राधिकार
+This agreement shall be governed by the laws of India and disputes resolved in Chennai courts.
+यह अनुबंध भारत के कानूनों द्वारा नियंत्रित होगा और विवाद चेन्नई अदालतों में हल किए जाएंगे।
+
+Signed / हस्ताक्षरित
+ABC Technologies Pvt Ltd
+XYZ Retail Solutions
